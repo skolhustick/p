@@ -7,7 +7,7 @@ I always wanted something simple, easy to manage, without any tech bloat.
 And I never really cared about being 'discovered'.
 
 I could have always used a number of solutions.
-But it would be cool, if can hide behind a 'public' domain instead of my own.
+But it would be cool, if I can hide behind a 'public' domain instead of my own.
 
 But I didn't wanna deal with a CMS or a web text editor.
 So the solution was something to do with markdown.
