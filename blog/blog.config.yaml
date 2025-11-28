@@ -1,4 +1,7 @@
+# blog.config.yaml
 title: "P Complete"
 description: "I write about programming and stuff."
 theme: "gruvbox-dark"
 font: "geist-mono"
+show_toc: false
+show_repo_link: false
