@@ -8,7 +8,7 @@ If you had been a low level programmer,
 I'm not sure how that works. Happy to hear your thoughts. 
 
 But I've written enough Javascript to cover 3I-Atlas. 
-At some poeint, you will soon feel the 'high-level fatigue'.
+At some point, you will soon feel the 'high-level fatigue'.
 The amount of abstractions, and layers and layers of other people's JS code. 
 
 Then you go `cargo new somecoolstuff` and immediatedly you feel the absolute silence. 
